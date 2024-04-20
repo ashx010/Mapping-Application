@@ -8,14 +8,13 @@ Welcome to the Interactive Mapping Web Application repository! This project is b
 - **Marker Placement:** Upload markers from Excel files or manually add them to pinpoint locations on the map.
 - **Route Planning:** Create routes between markers, showcasing road routes, time, distance, and directions for efficient navigation.
 - **Customization Options:** Customize marker appearance, route styles, and map layers to suit your preferences.
-- **Excel Integration:** Seamlessly import and export data from Excel files for easy data management.
 - **Responsive Design:** Access the interactive maps on any device with responsive design support.
 
 ## 🛠️ Getting Started
 
 To get started with the Interactive Mapping Web Application, follow these steps:
 
-1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/your-username/interactive-mapping.git`.
+1. **Clone the Repository:** Clone this repository to your local machine.
 2. **Install Dependencies:** Navigate to the project directory and install Python dependencies using `pip install -r requirements.txt`.
 3. **Database Setup:** Configure your database settings in `settings.py` and run migrations using `python manage.py migrate`.
 4. **Run the Development Server:** Start the Django development server using `python manage.py runserver`. The application will be accessible at `http://localhost:8000`.
