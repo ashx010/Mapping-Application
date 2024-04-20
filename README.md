@@ -35,4 +35,4 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## 📧 Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [yashaggarwal960@gmail.com](mailto:yashaggarwal960@gmail.com).
